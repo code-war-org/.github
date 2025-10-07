@@ -1,6 +1,6 @@
-# 🌍 The Ultimate Full-Stack Developer Journey
+# 🌍 Code War Org
 
-Welcome to **The Ultimate Full-Stack Developer Journey** — a GitHub organization created by **Sam**, a passionate Software Engineer & Programming Mentor, dedicated to helping developers master **front-end and back-end development** with modern technologies.
+Welcome to **Code War Org** — a GitHub organization created by **Sam**, a passionate Software Engineer & Programming Mentor, dedicated to helping developers master **front-end and back-end development** with modern technologies.
 
 ---
 
@@ -45,13 +45,13 @@ Each course and repository will include:
 
 ## 📚 Course Tracks
 
-| Track | Technologies | Focus |
-|-------|---------------|-------|
-| **Front-End Mastery** | React, Next.js, Redux Toolkit, Tailwind CSS | Build beautiful and efficient interfaces |
-| **Node & NestJS Developer** | Node.js, Express, NestJS | Learn scalable server-side development |
-| **Python Web Development** | Flask, Django | Master API and web app creation |
-| **.NET Engineer** | C#, ASP.NET Core | Build robust enterprise apps |
-| **Java Backend Expert** | Java, Spring Boot | Develop production-ready backends |
+| Track                       | Technologies                                | Focus                                    |
+|-----------------------------|---------------------------------------------|------------------------------------------|
+| **Front-End Mastery**       | React, Next.js, Redux Toolkit, Tailwind CSS | Build beautiful and efficient interfaces |
+| **Node & NestJS Developer** | Node.js, Express, NestJS                    | Learn scalable server-side development   |
+| **Python Web Development**  | Flask, Django                               | Master API and web app creation          |
+| **.NET Engineer**           | C#, ASP.NET Core                            | Build robust enterprise apps             |
+| **Java Backend Expert**     | Java, Spring Boot                           | Develop production-ready backends        |
 
 ---
 
@@ -74,20 +74,3 @@ To create a **complete ecosystem** where developers:
 
 ---
 
-## 💬 About the Creator
-
-👋 **Sam** is a Software Engineer & Programming Mentor with 5+ years of experience in full-stack development.  
-He’s passionate about teaching, building scalable systems, and helping others master programming from front to back.
-
-> _“Great software isn’t just written — it’s crafted with understanding, patience, and passion.”_
-
----
-
-## 🏁 Start Your Journey
-
-📘 Whether you’re learning **React** or diving into **Spring Boot**,  
-this organization is your roadmap to **becoming the best full-stack programmer you can be**.
-
-> ✨ Stay curious. Keep coding. Never stop improving.
-
----
