@@ -1,6 +1,6 @@
-# 🌍 Code War Org
+# 🌍 Code War Zone
 
-Welcome to **Code War Org** — a GitHub organization created by **Sam**, a passionate Software Engineer & Programming Mentor, dedicated to helping developers master **front-end and back-end development** with modern technologies.
+Welcome to **Code War Zone** — a GitHub organization created by **Sam**, a passionate Software Engineer & Programming Mentor, dedicated to helping developers master **front-end and back-end development** with modern technologies.
 
 ---
 
