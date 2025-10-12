@@ -74,3 +74,10 @@ To create a **complete ecosystem** where developers:
 
 ---
 
+## 💖 Support Code War Zone
+If you enjoy our tutorials and open-source work, consider supporting us:
+
+- [💸 Donate via PayPal](https://paypal.me/samprojects)
+- [🎥 Subscribe on YouTube](www.youtube.com/@code-war-zone)
+
+---
